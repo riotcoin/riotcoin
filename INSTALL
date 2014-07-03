@@ -1,0 +1,9 @@
+Building riotCoin
+
+See doc/readme-qt.rst for instructions on building riotCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of riotCoin.
+
+See doc/build-*.txt for instructions on building riotCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of riotCoin.
